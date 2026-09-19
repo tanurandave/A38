@@ -4,7 +4,7 @@ public class ASCIIValueSpecialChar {
     public static void main(String[] args) {
         String s = new String("java@#123");
         ASCIIValueSpecialChar obj = new ASCIIValueSpecialChar();
-       int resobj.printASCIIValueSpecialChar(s);
+        obj.printASCIIValueSpecialChar(s);
     }
     public  void printASCIIValueSpecialChar(String s){
         for(int i =0; i<s.length();i++){

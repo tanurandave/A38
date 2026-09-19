@@ -5,7 +5,7 @@
 public class StringDriver{
 	public static void main(String[] args){
 		String s = new String("Demo");
-s
+
 		System.out.println(printLength(s));
 	}
 	public static int printLength(String s){
