@@ -1,7 +1,7 @@
 
 import java.util.Arrays;
 
-public class 3Sum {
+public class ThreeSum {
     public int threeSumClosest(int[] nums, int target) {
         Arrays.sort(nums);
 
